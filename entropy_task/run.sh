@@ -1,5 +1,3 @@
-# nlp_homework
-
 # Step 1: 抓取样本
 python scraper.py
 

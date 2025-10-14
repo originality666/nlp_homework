@@ -1,0 +1,32 @@
+[
+  {
+    "scale": 2000000,
+    "entropy": 4.4571,
+    "unique_chars": 112,
+    "total_chars": 2000000
+  },
+  {
+    "scale": 3000000,
+    "entropy": 4.4485,
+    "unique_chars": 114,
+    "total_chars": 3000000
+  },
+  {
+    "scale": 4000000,
+    "entropy": 4.4574,
+    "unique_chars": 121,
+    "total_chars": 3999999
+  },
+  {
+    "scale": 5000000,
+    "entropy": 4.458,
+    "unique_chars": 131,
+    "total_chars": 5000000
+  },
+  {
+    "scale": 6000000,
+    "entropy": 4.4581,
+    "unique_chars": 137,
+    "total_chars": 6000000
+  }
+]
