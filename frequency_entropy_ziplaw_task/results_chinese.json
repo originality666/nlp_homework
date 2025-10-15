@@ -1,0 +1,44 @@
+[
+  {
+    "scale": 1000000,
+    "char_entropy": 9.2894,
+    "word_entropy": 11.6846,
+    "unique_chars": 5004,
+    "unique_words": 84585
+  },
+  {
+    "scale": 2000000,
+    "char_entropy": 9.478,
+    "word_entropy": 12.1915,
+    "unique_chars": 5675,
+    "unique_words": 152212
+  },
+  {
+    "scale": 3000000,
+    "char_entropy": 9.6051,
+    "word_entropy": 12.6255,
+    "unique_chars": 6024,
+    "unique_words": 215914
+  },
+  {
+    "scale": 4000000,
+    "char_entropy": 9.5862,
+    "word_entropy": 12.6759,
+    "unique_chars": 6356,
+    "unique_words": 266109
+  },
+  {
+    "scale": 5000000,
+    "char_entropy": 9.7314,
+    "word_entropy": 13.0667,
+    "unique_chars": 7120,
+    "unique_words": 341492
+  },
+  {
+    "scale": 6000000,
+    "char_entropy": 9.854,
+    "word_entropy": 13.4417,
+    "unique_chars": 7512,
+    "unique_words": 435303
+  }
+]
