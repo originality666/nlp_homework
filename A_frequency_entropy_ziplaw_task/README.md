@@ -1,4 +1,5 @@
 # nlp_homework
+![结果展示](task.png)
 
 # Step 1: 抓取样本
 python scraper.py
